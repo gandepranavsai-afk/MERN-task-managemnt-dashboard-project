@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow - MERN Task Management Dashboard
 
 Production-ready MERN task management platform with authentication, projects, tasks, Kanban workflow, analytics, realtime notifications, and team collaboration.
@@ -160,3 +161,7 @@ Extensible stubs can be layered for:
 - Add background jobs for due reminders and digest insights
 - Add tests (unit + integration + e2e)
 - Add CI/CD pipelines and lint/format configs
+=======
+# MERN-task-managemnt-dashboard-project
+TaskFlow is a full-stack MERN task management dashboard with authentication, project collaboration, task tracking, analytics, realtime updates, and responsive UI for teams and productivity management.
+>>>>>>> e289a9dce7a7dbdba616d59d7618f2d3fca05529
